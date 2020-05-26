@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from 'axios';
-import { message, Form, Input, Button, Typography } from 'antd';
+import { Form, Input, Button, Typography } from 'antd';
 
 const layout = {
   labelCol: { offset: 4, span: 4 },
